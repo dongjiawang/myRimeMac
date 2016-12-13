@@ -1,0 +1,16 @@
+# Rime user dictionary
+#@/db_name	emoji.userdb
+#@/db_type	userdb
+#@/rime_version	1.2.9
+#@/tick	13
+#@/user_id	37056f9d-afe8-46c2-8041-133d94fb0b15
+ambulence,emergency;jiao'tong`transportation 	🚑	c=1 d=0.965605 t=13
+chicken;dong'wu`animal 	🐔	c=1 d=0.97531 t=13
+china,country;guo 	🇨🇳	c=1 d=0.970446 t=13
+cry,sad;biao'qing 	😭	c=1 d=0.960789 t=13
+ok,buttom;jie'mian 	🆗	c=1 d=1 t=13
+ok;shou`hand 	👌	c=1 d=0.995012 t=13
+smile,happy;biao'qing 	😀	c=3 d=2.87335 t=13
+sun,flower;zhi'wu`plant 	🌻	c=1 d=0.951229 t=13
+sun;tian'ti`celestial 	🌞	c=1 d=0.955997 t=13
+world;di'qiu`globe 	🌍	c=1 d=0.980199 t=13

@@ -1,0 +1,7 @@
+# Rime user dictionary
+#@/db_name	chinese_contain_english.userdb
+#@/db_type	userdb
+#@/rime_version	1.2.9
+#@/tick	2
+#@/user_id	37056f9d-afe8-46c2-8041-133d94fb0b15
+rime 	 Rime 	c=1 d=1 t=2

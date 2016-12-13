@@ -1,0 +1,11 @@
+var:
+  option:
+    simplification: true
+  previously_selected_schema: double_pinyin_flypy
+  schema_access_time:
+    azure_pinyin: 1481165330
+    double_pinyin_flypy: 1481252950
+    double_pinyin_flypy_fluency: 1481245856
+    emoji: 1481252939
+    luna_pinyin: 1481180071
+    luna_pinyin_simp: 1481164944
