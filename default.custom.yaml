@@ -18,13 +18,13 @@ patch:
         # - schema: double_pinyin_mspy   # 微軟雙拼
         # - schema: double_pinyin_abc    # 智能ABC雙拼
         - schema: double_pinyin_flypy  # 小鶴雙拼
-        - schema: double_pinyin_flypy_fluency   # 小鶴雙拼语句流
+        # - schema: double_pinyin_flypy_fluency   # 小鶴雙拼语句流
         # - schema: wugniu        # 吳語上海話（新派）
         # - schema: wugniu_lopha  # 吳語上海話（老派）
         # - schema: sampheng      # 中古漢語三拼
         # - schema: zyenpheng     # 中古漢語全拼
         # - schema: ipa_xsampa    # X-SAMPA 國際音標
-        - schema: emoji         # emoji表情
+        # - schema: emoji         # emoji表情
 #下面定义“输入选单”的切换控
     switcher:
         abbreviate_options: true

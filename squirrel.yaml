@@ -29,8 +29,8 @@ app_options:
     ascii_mode: true
     no_inline: true
 chord_duration: 0.1
-config_version: 0.22.custom.290407621
-customization: 290407621
+config_version: 0.22.custom.2298367116
+customization: 2298367116
 preset_color_schemes:
   aqua:
     author: "佛振 <chen.sst@gmail.com>"
@@ -157,12 +157,12 @@ show_notifications_when: appropriate
 style:
   border_height: 0
   border_width: 0
-  color_scheme: ink
+  color_scheme: native
   corner_radius: 10
   font_face: "Lucida Grande"
-  font_point: 20
+  font_point: 18
   horizontal: false
   inline_preedit: false
   line_spacing: 1
   spacing: 5
-us_keyboard_layout: false
+us_keyboard_layout: true
