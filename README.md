@@ -6,3 +6,7 @@
 
 
 具体的怎么修改 `Rime` 输入法，可以去它的的 `GitHub` 上去学习，还有很多第三方的博客
+
+使用 `brew cask install squirrel` 安装输入法的 app
+
+把当前的配制文件覆盖到 资源库的 `Rime` 文件夹中，重新部署就可以了
