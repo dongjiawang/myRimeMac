@@ -10,3 +10,6 @@
 使用 `brew cask install squirrel` 安装输入法的 app
 
 把当前的配制文件覆盖到 资源库的 `Rime` 文件夹中，重新部署就可以了
+
+覆盖之前先备份 **installation.yaml**
+这是安装信息文件
